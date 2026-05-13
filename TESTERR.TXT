@@ -1,0 +1,10 @@
+******************************
+USER:   6/30/98 2:25:47 PM
+ERROR #: 10025:Lost connection to SQL Server   Severity#: 9  During Labor
+USER:ASGHDT   PROCEDURE:GetEmployee  6/30/98 2:25:47 PM
+Exec Select_Employee 101000
+******************************
+USER:   10/05/98 2:11:04 PM
+ERROR #: 207   Severity#: 16
+USER:ASGHMWP   PROCEDURE:FirstLaborRec  10/05/98 2:11:04 PM
+select * From Labor where EmplNo = 13160 and act_date = '10/05/1998'
