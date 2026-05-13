@@ -1,0 +1,313 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=U:\DCFloor32\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+Crystal=
+Kernel.DLL=
+u2fxml.dll=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINNT\SYSTEM32\crpe32.dll=
+C:\WINNT\SYSTEM32\scrrun.dll=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\program files\common files\business objects\3.0\bin\craxdrt.dll=
+c:\program files\common files\business objects\3.0\bin\crdb_ado.dll=
+c:\program files\common files\business objects\3.0\bin\crdb_dao.dll=
+c:\program files\common files\business objects\3.0\bin\crdb_odbc.dll=
+c:\program files\common files\business objects\3.0\bin\crdeploy.reg=
+c:\program files\common files\business objects\3.0\bin\crqe.dll=
+c:\program files\common files\business objects\3.0\bin\crtowords_en.dll=
+c:\program files\common files\business objects\3.0\bin\crxf_pdf.dll=
+c:\program files\common files\business objects\3.0\bin\crxf_rtf.dll=
+c:\program files\common files\business objects\3.0\bin\crxf_wordw.dll=
+c:\program files\common files\business objects\3.0\bin\crxf_xls.dll=
+c:\windows\system32\cslibu-2-0-0.dll=
+c:\windows\system32\cxlibw-2-6.dll=
+c:\program files\common files\business objects\3.0\bin\exportmodeller.dll=
+c:\windows\system32\etc-1-0-12-3.dll=
+c:\windows\system32\ebus-3-3-2-4.dll=
+c:\windows\system32\fssl-1-2-1-1.dll=
+c:\program files\common files\business objects\3.0\bin\keycode.dll=
+c:\windows\system32\libocahelperw-2-13.dll=
+c:\windows\system32\libocasecurityw-1-6.dll=
+c:\program files\common files\business objects\3.0\bin\parameterdesigner.dll=
+c:\program files\common files\business objects\3.0\bin\prompt.dll=
+c:\program files\common files\business objects\3.0\bin\querybuilder.dll=
+c:\program files\common files\business objects\3.0\bin\sacommlayer.dll=
+c:\program files\common files\business objects\3.0\bin\saxmlserialize.dll=
+c:\program files\common files\business objects\3.0\bin\saxserialize.dll=
+c:\program files\common files\business objects\3.0\bin\u252000.dll=
+c:\program files\common files\business objects\3.0\bin\sscsdk80.dll=
+c:\program files\common files\business objects\3.0\bin\u25dts.dll=
+c:\program files\common files\business objects\3.0\bin\u25samp1.dll=
+c:\program files\common files\business objects\3.0\bin\u2dapp.dll=
+c:\program files\common files\business objects\3.0\bin\u2ddisk.dll=
+c:\windows\system32\u2dpost.dll=
+c:\program files\common files\business objects\3.0\bin\u2fcr.dll=
+c:\windows\system32\u2fsepv.dll=
+c:\program files\common files\business objects\3.0\bin\u2ftext.dll=
+c:\program files\common files\business objects\3.0\bin\u2l2000.dll=
+c:\program files\common files\business objects\3.0\bin\u2lcom.dll=
+c:\program files\common files\business objects\3.0\bin\u2ldts.dll=
+c:\program files\common files\business objects\3.0\bin\u2lexch.dll=
+c:\program files\common files\business objects\3.0\bin\u2lfinra.dll=
+c:\program files\common files\business objects\3.0\bin\ufmanager.dll=
+c:\program files\common files\business objects\3.0\bin\xerces-c_2_1_0.dll=
+c:\program files\common files\business objects\3.0\bin\crtslv.dll=
+\program files\common files\business objects\3.0\bin\crdb_ado.dll=
+\program files\common files\business objects\3.0\bin\crdb_dao.dll=
+\program files\common files\business objects\3.0\bin\crdb_odbc.dll=
+\program files\common files\business objects\3.0\bin\crdeploy.reg=
+\program files\common files\business objects\3.0\bin\crqe.dll=
+\program files\common files\business objects\3.0\bin\crtowords_en.dll=
+\program files\common files\business objects\3.0\bin\crxf_pdf.dll=
+\program files\common files\business objects\3.0\bin\crxf_rtf.dll=
+\program files\common files\business objects\3.0\bin\crxf_wordw.dll=
+\program files\common files\business objects\3.0\bin\crxf_xls.dll=
+\program files\common files\business objects\3.0\bin\exportmodeller.dll=
+\program files\common files\business objects\3.0\bin\parameterdesigner.dll=
+\program files\common files\business objects\3.0\bin\prompt.dll=
+\program files\common files\business objects\3.0\bin\querybuilder.dll=
+\program files\common files\business objects\3.0\bin\sacommlayer.dll=
+\program files\common files\business objects\3.0\bin\saxmlserialize.dll=
+\program files\common files\business objects\3.0\bin\saxserialize.dll=
+\program files\common files\business objects\3.0\bin\sscsdk80.dll=
+\program files\common files\business objects\3.0\bin\u252000.dll=
+\program files\common files\business objects\3.0\bin\u25samp1.dll=
+\program files\common files\business objects\3.0\bin\u2dapp.dll=
+\program files\common files\business objects\3.0\bin\u2ddisk.dll=
+\program files\common files\business objects\3.0\bin\u2fcr.dll=
+\program files\common files\business objects\3.0\bin\u2ftext.dll=
+\program files\common files\business objects\3.0\bin\u2l2000.dll=
+\program files\common files\business objects\3.0\bin\u2lcom.dll=
+\program files\common files\business objects\3.0\bin\u2ldts.dll=
+\program files\common files\business objects\3.0\bin\u2lexch.dll=
+\program files\common files\business objects\3.0\bin\u2lfinra.dll=
+\program files\common files\business objects\3.0\bin\ufmanager.dll=
+\program files\common files\business objects\3.0\bin\xerces-c_2_1_0.dll=
+\program files\common files\business objects\3.0\bin\u25dts.dll=
+\program files\common files\business objects\3.0\bin\keycode.dll=
+\program files\common files\business objects\3.0\bin\crtslv.dll=
+u:\dcfloor32\dcfloor32.exe=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado27.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\Program Files\Common Files\Business Objects\3.0\bin\craxdrt.dll=No
+C:\WINDOWS\system32\cslibu-2-0-0.dll=No
+C:\WINDOWS\system32\msvcr71.dll=Yes
+C:\WINDOWS\system32\mfc71u.dll=Yes
+C:\WINDOWS\system32\cxlibw-2-6.dll=No
+C:\WINDOWS\system32\libOCASecurityw-1-6.dll=No
+C:\WINDOWS\system32\ebus-3-3-2-4.dll=No
+C:\WINDOWS\system32\libOCAHelperw-2-13.dll=No
+C:\WINDOWS\system32\u2fsepv.dll=No
+C:\WINDOWS\system32\u2dpost.dll=No
+C:\WINDOWS\system32\atl71.dll=Yes
+C:\WINDOWS\system32\etc-1-0-12-3.dll=No
+C:\WINDOWS\system32\msvcp71.dll=Yes
+C:\WINDOWS\system32\fssl-1-2-1-1.dll=No
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\Msflxgrd.ocx=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+U:\DCFloor32\DCFloor32.exe=No
+\Program Files\Common Files\Business Objects\3.0\bin\crtowords_en.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\ufmanager.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\u2l2000.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\u2lcom.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\u2ldts.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\u2lexch.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\u2lfinra.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\u252000.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\u25dts.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\u25samp1.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\Implode.dll=Yes
+\Program Files\Common Files\Business Objects\3.0\bin\crqe.dll=No
+\Program files\common files\Business Objects\3.0\bin\crdb_ado.dll=No
+\Program files\common files\Business Objects\3.0\bin\crdb_dao.dll=No
+\Program files\common files\Business Objects\3.0\bin\crdb_odbc.dll=No
+\Program files\common files\Business Objects\3.0\bin\querybuilder.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\sscsdk80.dll=No
+\Program files\common files\Business Objects\3.0\bin\crxf_rtf.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\ExportModeller.dll=No
+\Program Files\Common Files\Business Objects\3.0\bin\crtslv.dll=No
+\Program files\common files\Business Objects\3.0\bin\crxf_wordw.dll=No
+\Program files\common files\Business Objects\3.0\bin\crxf_xls.dll=No
+\Program files\common files\Business Objects\3.0\bin\crxf_pdf.dll=No
+\Program files\common files\Business Objects\3.0\bin\u2fcr.dll=No
+\Program files\common files\Business Objects\3.0\bin\u2ftext.dll=No
+\Program files\common files\Business Objects\3.0\bin\u2ddisk.dll=No
+\Program files\common files\Business Objects\3.0\bin\u2dapp.dll=No
+\Program files\common files\Business Objects\3.0\bin\keycode.dll=No
+\Program files\common files\Business Objects\3.0\bin\crdeploy.reg=No
+\Program files\common files\Business Objects\3.0\bin\saxserialize.dll=No
+\Program files\common files\Business Objects\3.0\bin\saxmlserialize.dll=No
+\Program files\common files\Business Objects\3.0\bin\sacommlayer.dll=No
+\Program files\common files\Business Objects\3.0\bin\prompt.dll=No
+\Program files\common files\Business Objects\3.0\bin\ParameterDesigner.dll=No
+\Program files\common files\Business Objects\3.0\bin\xerces-c_2_1_0.dll=No
+C:\WINDOWS\system32\Richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+U:\DCFloor32\DCFloor32.exe=$(AppPath)
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\msvcrt.dll=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\WINNT\SYSTEM32\crystl32.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\crpe32.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\implode.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\crpaig32.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\mfc42.dll=$(WinSysPath)
+C:\WINNT\Crystal\CRXLAT32.DLL=$(WinSysPath)
+C:\WINNT\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\p2bbnd.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\p2bdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\p2ctdao.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\p2irdao.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\p2smon.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\p2sodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINNT\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2FHTML.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINNT\Crystal\U2FRTF.DLL=$(WinSysPath)
+C:\WINNT\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINNT\Crystal\u25dts.dll=$(AppPath)
+C:\WINNT\Crystal\u25store.dll=$(AppPath)
+C:\WINNT\Crystal\u25total.dll=$(AppPath)
+C:\WINNT\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2lbar.dll=$(AppPath)
+C:\WINNT\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINNT\Crystal\u2ldts.dll=$(AppPath)
+C:\WINNT\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINNT\Crystal\u252000.dll=$(WinSysPath)
+C:\WINNT\SYSTEM32\SSCSDK32.DLL=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\COMCT332.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSMASK32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+U:\DCFloor32 with CR XI\DCFloor32.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcr71.dll=$(WinSysPath)
+C:\WINDOWS\system32\mfc71u.dll=$(WinSysPath)
+C:\Program Files\Common Files\Business Objects\3.0\bin\Implode.dll=$(CommonFiles)\Business Objects\3.0\bin
+C:\WINDOWS\system32\atl71.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcp71.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+\Program Files\Common Files\Business Objects\3.0\bin\Implode.dll=$(CommonFiles)\Business Objects\3.0\bin
+C:\WINDOWS\system32\Richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+U:\DCFloor32\DCFloor32.exe=No
+C:\WINNT\Crystal\u25dts.dll=No
+C:\WINNT\Crystal\u25store.dll=No
+C:\WINNT\Crystal\u25total.dll=No
+C:\WINNT\Crystal\u2lbar.dll=No
+C:\WINNT\Crystal\u2ldts.dll=No
+C:\WINNT\Crystal\u2lsamp1.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+U:\DCFloor32 with CR XI\DCFloor32.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=DCFloor32
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=U:\DCFloor32\Package
+ProjectFolder=U:\DCFloor32
+ServerSideCab=
+File1=U:\DCFloor32\Package\setup.exe
+File2=U:\DCFloor32\Package\Setup.Lst
+File3=U:\DCFloor32\Package\DCFloor32.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=DCFloor32
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|DCFloor32]
+Icon1=DCFloor32.exe
+Title1=DCFloor32
+StartIn1=$(AppPath)
+Key1=Icon1

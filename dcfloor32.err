@@ -1,0 +1,4576 @@
+Module: DB.BAS
+Function: GetRecordsetData
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 08:48 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionWrite (send()).]General network error. Check your network documentation.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 08:48 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 09:13 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionWrite (send()).]General network error. Check your network documentation.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 09:13 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: ReadIniDatabase
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 09:43 AM
+Error #: -999
+Error Desc.: ERROR: Missing Database name in INI file
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: ReadIniDatabase
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 09:46 AM
+Error #: -999
+Error Desc.: ERROR: Missing Database name in INI file
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: ReadIniDatabase
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 09:49 AM
+Error #: -999
+Error Desc.: ERROR: Missing Database name in INI file
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 09:50 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: SetupADOConnection
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 10:48 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: SetupADOConnection
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 10:52 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: SetupADOConnection
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 10:54 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: SetupADOConnection
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 10:56 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: SetupADOConnection
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 11:01 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: SetupADOConnection
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 11:11 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: SetupADOConnection
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 11:14 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: SetupADOConnection
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 11:16 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: SetupADOConnection
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 11:26 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: Startup
+Function: SetupADOConnection
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 01:14 PM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: LoadApp
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 01:19 PM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: LoadApp
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 01:26 PM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: LoadApp
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 01:27 PM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: Main
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 01:27 PM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: cworkOrder
+Function: getworkorder
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 11/15/2006 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 02/27/2007 - 01:44 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 02/27/2007 - 01:47 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 02/27/2007 - 01:56 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 03/27/2007 - 10:42 AM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 03/27/2007 - 10:46 AM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 03/27/2007 - 10:52 AM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetOperCodes'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadOperCol
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/23/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/25/2007 - 08:46 AM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: Main
+User: ASGHMWP
+Computer: ASGH-MIS-42
+Date: 05/11/2007 - 08:46 AM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 05/25/2007 - 02:05 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 05/25/2007 - 02:06 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 05/25/2007 - 02:14 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 06/25/2007 - 02:49 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 06/25/2007 - 02:50 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 06/25/2007 - 02:53 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 06/25/2007 - 03:24 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 12:59 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 12:59 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 12:59 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 12:59 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 12:59 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 12:59 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:00 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:00 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:01 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:01 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:01 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:01 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:06 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:06 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:06 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:06 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:06 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:06 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:07 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:07 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:10 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:10 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:14 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:14 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:14 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:14 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:18 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:18 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:18 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:18 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:21 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:21 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:21 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:21 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:21 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:21 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:21 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:21 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:26 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:26 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:32 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:32 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:32 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:32 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:33 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:33 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:33 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:33 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:34 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:34 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:34 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:34 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:35 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:35 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:36 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:36 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:36 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:36 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:36 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:36 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:37 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:37 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:38 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:38 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:39 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:39 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:39 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:39 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:39 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:39 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:39 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:39 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:43 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:43 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:43 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:43 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:46 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:46 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:46 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:46 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:56 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:56 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:56 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:56 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:57 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:57 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:57 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:57 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:57 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:57 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:58 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 01:58 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 02:13 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 02:13 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 03:12 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 03:12 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 03:38 PM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/09/2007 - 03:38 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 09:03 AM
+Error #: -2147217913
+Error Desc.: ERROR: The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 09:03 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 02:42 PM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionWrite (send()).]General network error. Check your network documentation.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 02:42 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 02:43 PM
+Error #: -2147467259
+Error Desc.: Connection failure
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 02:43 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 02:45 PM
+Error #: -2147467259
+Error Desc.: Connection failure
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 02:46 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:18 PM
+Error #: -2147217843
+Error Desc.: Login failed for user 'DataCollection'.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:18 PM
+Error #: 3709
+Error Desc.: ERROR: Requested operation requires an OLE DB Session object, which is not supported by the current provider.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:18 PM
+Error #: 3709
+Error Desc.: ERROR: The connection cannot be used to perform this operation. It is either closed or invalid in this context.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:18 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:18 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:18 PM
+Error #: -2147217843
+Error Desc.: Login failed for user 'DataCollection'.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:18 PM
+Error #: 3709
+Error Desc.: ERROR: Requested operation requires an OLE DB Session object, which is not supported by the current provider.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:18 PM
+Error #: 3709
+Error Desc.: ERROR: The connection cannot be used to perform this operation. It is either closed or invalid in this context.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: -2147217843
+Error Desc.: Login failed for user 'DataCollection'.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3709
+Error Desc.: ERROR: Requested operation requires an OLE DB Session object, which is not supported by the current provider.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3709
+Error Desc.: ERROR: The connection cannot be used to perform this operation. It is either closed or invalid in this context.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: -2147217843
+Error Desc.: Login failed for user 'DataCollection'.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3709
+Error Desc.: ERROR: Requested operation requires an OLE DB Session object, which is not supported by the current provider.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3709
+Error Desc.: ERROR: The connection cannot be used to perform this operation. It is either closed or invalid in this context.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: -2147217843
+Error Desc.: Login failed for user 'DataCollection'.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3709
+Error Desc.: ERROR: Requested operation requires an OLE DB Session object, which is not supported by the current provider.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3709
+Error Desc.: ERROR: The connection cannot be used to perform this operation. It is either closed or invalid in this context.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:19 PM
+Error #: -2147217843
+Error Desc.: Login failed for user 'DataCollection'.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:20 PM
+Error #: 3709
+Error Desc.: ERROR: Requested operation requires an OLE DB Session object, which is not supported by the current provider.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:20 PM
+Error #: 3709
+Error Desc.: ERROR: The connection cannot be used to perform this operation. It is either closed or invalid in this context.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:20 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:20 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:20 PM
+Error #: -2147217843
+Error Desc.: Login failed for user 'DataCollection'.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:20 PM
+Error #: 3709
+Error Desc.: ERROR: Requested operation requires an OLE DB Session object, which is not supported by the current provider.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:20 PM
+Error #: 3709
+Error Desc.: ERROR: The connection cannot be used to perform this operation. It is either closed or invalid in this context.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:20 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:20 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:20 PM
+Error #: -2147217843
+Error Desc.: Login failed for user 'DataCollection'.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:20 PM
+Error #: 3709
+Error Desc.: ERROR: Requested operation requires an OLE DB Session object, which is not supported by the current provider.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:21 PM
+Error #: 3709
+Error Desc.: ERROR: The connection cannot be used to perform this operation. It is either closed or invalid in this context.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:21 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:21 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:21 PM
+Error #: -2147217843
+Error Desc.: Login failed for user 'DataCollection'.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:21 PM
+Error #: 3709
+Error Desc.: ERROR: Requested operation requires an OLE DB Session object, which is not supported by the current provider.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:21 PM
+Error #: 3709
+Error Desc.: ERROR: The connection cannot be used to perform this operation. It is either closed or invalid in this context.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:21 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:21 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:21 PM
+Error #: -2147217843
+Error Desc.: Login failed for user 'DataCollection'.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:21 PM
+Error #: 3709
+Error Desc.: ERROR: Requested operation requires an OLE DB Session object, which is not supported by the current provider.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/10/2007 - 03:27 PM
+Error #: -2147217843
+Error Desc.: Login failed for user 'DataCollection'.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/11/2007 - 08:28 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionWrite (send()).]General network error. Check your network documentation.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/11/2007 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/11/2007 - 08:58 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionWrite (send()).]General network error. Check your network documentation.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: Startup
+Function: Main
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/11/2007 - 02:50 PM
+Error #: 13
+Error Desc.: Type mismatch
+
+My Error Desc.: ERROR: An invalid value type was passed to the server.  Please contact the MIS Help Desk at (860) 409 - 4690.
+
+
+Module: Startup
+Function: Main
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/11/2007 - 02:57 PM
+Error #: 13
+Error Desc.: Type mismatch
+
+My Error Desc.: ERROR: An invalid value type was passed to the server.  Please contact the MIS Help Desk at (860) 409 - 4690.
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 08/13/2007 - 01:21 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 08/13/2007 - 02:05 PM
+Error #: -2147217900
+Error Desc.: ERROR: Incorrect syntax near the keyword 'select'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 08/13/2007 - 02:05 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 08/13/2007 - 02:05 PM
+Error #: -2147217900
+Error Desc.: ERROR: Incorrect syntax near the keyword 'select'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 08/13/2007 - 02:05 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/06/2007 - 01:19 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_InsertAttendance'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/06/2007 - 01:19 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/06/2007 - 01:19 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_InsertAttendance'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/06/2007 - 01:19 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/06/2007 - 01:24 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_InsertAttendance'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/06/2007 - 01:24 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/06/2007 - 01:28 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetMsgForShop'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetMsgsForShopFloor
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/06/2007 - 01:28 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/06/2007 - 02:35 PM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetMsgForShop'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetMsgsForShopFloor
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/06/2007 - 02:35 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/07/2007 - 01:05 PM
+Error #: -2147217904
+Error Desc.: ERROR: Procedure 'SF_GetMsgForShop' expects parameter '@displayTime', which was not supplied.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetMsgsForShopFloor
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/07/2007 - 01:05 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/18/2007 - 10:03 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionRead (recv()).]General network error. Check your network documentation.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/18/2007 - 10:03 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/18/2007 - 10:03 AM
+Error #: -2147467259
+Error Desc.: Connection failure
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 09/18/2007 - 10:03 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 10/02/2007 - 08:17 AM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionRead (recv()).]General network error. Check your network documentation.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 10/02/2007 - 08:17 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 10/02/2007 - 08:17 AM
+Error #: -2147467259
+Error Desc.: Connection failure
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 10/02/2007 - 08:17 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: Main
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 12/06/2007 - 04:39 PM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: Main
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 12/06/2007 - 04:39 PM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: Main
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 12/06/2007 - 04:40 PM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 01/10/2008 - 02:27 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 01/10/2008 - 02:27 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 01/10/2008 - 02:27 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 01/10/2008 - 02:29 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 01/10/2008 - 02:30 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: getOTOfferingdata
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 01/10/2008 - 02:33 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: Main
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 03/13/2008 - 08:11 AM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 03/13/2008 - 01:36 PM
+Error #: -2147217873
+Error Desc.: INSERT statement conflicted with COLUMN FOREIGN KEY constraint 'FK_labor_2__10'. The conflict occurred in database 'testdc', table 'cost_center', column 'cc_id'.
+
+My Error Desc.: ERROR: Error while attempting to save data.  The Primary Key Field already exisits.  Please retry your save.
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 03/13/2008 - 01:36 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 03/13/2008 - 01:42 PM
+Error #: -2147217873
+Error Desc.: INSERT statement conflicted with COLUMN FOREIGN KEY constraint 'FK_labor_2__10'. The conflict occurred in database 'testdc', table 'cost_center', column 'cc_id'.
+
+My Error Desc.: ERROR: Error while attempting to save data.  The Primary Key Field already exisits.  Please retry your save.
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 03/13/2008 - 01:42 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetPAEmplyData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/09/2008 - 09:24 AM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/09/2008 - 10:57 AM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetPAEmplyData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/09/2008 - 10:57 AM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetPAEmplyData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/10/2008 - 09:44 AM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/10/2008 - 02:06 PM
+Error #: -2147467259
+Error Desc.: [DBNETLIB][ConnectionRead (recv()).]General network error. Check your network documentation.
+
+My Error Desc.: ERROR: There is a problem connecting to the SQL database.  First check the .ini file to see if connection parameters are correct.
+
+
+Module: DB.BAS
+Function: CheckValidQty
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/10/2008 - 02:06 PM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/10/2008 - 02:43 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 04/28/2008 - 04:09 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/01/2008 - 03:53 PM
+Error #: -2147217873
+Error Desc.: INSERT statement conflicted with COLUMN FOREIGN KEY constraint 'FK_labor_2__10'. The conflict occurred in database 'Datacoll', table 'cost_center', column 'cc_id'.
+
+My Error Desc.: ERROR: Error while attempting to save data.  The Primary Key Field already exisits.  Please retry your save.
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: asghmwp
+Computer: ASGH-MIS-61
+Date: 07/01/2008 - 03:53 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetbatchIncen'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadAllBatchIncnCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetIndirIncen'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadAllIndirIncnCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetOperCodes'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadOperCol
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:26 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetbatchIncen'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadAllBatchIncnCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetIndirIncen'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadAllIndirIncnCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetOperCodes'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadOperCol
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:29 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetDivParam
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetDivParam'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadLookupCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetbatchIncen'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadAllBatchIncnCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetIndirIncen'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadAllIndirIncnCols
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetRecordsetData
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: -2147217900
+Error Desc.: ERROR: Could not find stored procedure 'SF_GetOperCodes'.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: LoadOperCol
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 07/30/2008 - 08:30 AM
+Error #: 3704
+Error Desc.: ERROR: Operation is not allowed when the object is closed.
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: Main
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 02/20/2009 - 03:06 PM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: Main
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 02/20/2009 - 03:07 PM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: Startup
+Function: Main
+User: asghmwp
+Computer: ASGH-MIS-93
+Date: 02/20/2009 - 03:28 PM
+Error #: -990
+Error Desc.: ERROR: Could not connect to database
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09-16-2009 - 09:01 AM
+Error #: 13
+Error Desc.: Type mismatch
+
+My Error Desc.: ERROR: An invalid value type was passed to the server.  Please contact the MIS Help Desk at (860) 409 - 4690.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09-16-2009 - 10:11 AM
+Error #: 13
+Error Desc.: Type mismatch
+
+My Error Desc.: ERROR: An invalid value type was passed to the server.  Please contact the MIS Help Desk at (860) 409 - 4690.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09-16-2009 - 10:11 AM
+Error #: 13
+Error Desc.: Type mismatch
+
+My Error Desc.: ERROR: An invalid value type was passed to the server.  Please contact the MIS Help Desk at (860) 409 - 4690.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09-16-2009 - 10:12 AM
+Error #: 13
+Error Desc.: Type mismatch
+
+My Error Desc.: ERROR: An invalid value type was passed to the server.  Please contact the MIS Help Desk at (860) 409 - 4690.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09-16-2009 - 10:13 AM
+Error #: 13
+Error Desc.: Type mismatch
+
+My Error Desc.: ERROR: An invalid value type was passed to the server.  Please contact the MIS Help Desk at (860) 409 - 4690.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09-16-2009 - 10:15 AM
+Error #: 13
+Error Desc.: Type mismatch
+
+My Error Desc.: ERROR: An invalid value type was passed to the server.  Please contact the MIS Help Desk at (860) 409 - 4690.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09-16-2009 - 10:56 AM
+Error #: 13
+Error Desc.: Type mismatch
+
+My Error Desc.: ERROR: An invalid value type was passed to the server.  Please contact the MIS Help Desk at (860) 409 - 4690.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09-16-2009 - 11:01 AM
+Error #: 13
+Error Desc.: Type mismatch
+
+My Error Desc.: ERROR: An invalid value type was passed to the server.  Please contact the MIS Help Desk at (860) 409 - 4690.
+
+
+Module: DB.BAS
+Function: GetEmployee
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09-16-2009 - 11:18 AM
+Error #: 13
+Error Desc.: Type mismatch
+
+My Error Desc.: ERROR: An invalid value type was passed to the server.  Please contact the MIS Help Desk at (860) 409 - 4690.
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09-16-2009 - 04:08 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09/18/2009 - 02:06 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+
+Module: DB.BAS
+Function: ExecuteQuery
+User: ASGHMWP
+Computer: ASGH-MIS-93
+Date: 09/18/2009 - 02:07 PM
+Error #: 3265
+Error Desc.: ERROR: Item cannot be found in the collection corresponding to the requested name or ordinal.
+
+My Error Desc.: 
+
+

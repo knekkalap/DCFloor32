@@ -1,0 +1,49 @@
+Start of OS Send out process
+Start of OS Send out process
+Get work order and sequence
+Get Workcenter
+Get Sendout Quantity
+ClearForm
+Build_OSSendOut
+Unload Form
+End of Sub
+Start of OS Send out process
+Get work order and sequence
+Get Workcenter
+Get Sendout Quantity
+ClearForm
+Build_OSSendOut
+Unload Form
+End of Sub
+START of OS Send out process START  DateTime: 04/14/2014 2:18:07 PM
+Get work order and sequence  DateTime: 04/14/2014 2:18:07 PM
+Get Workcenter  DateTime: 04/14/2014 2:18:14 PM
+Get Sendout Quantity  DateTime: 04/14/2014 2:18:14 PM
+ClearForm  DateTime: 04/14/2014 2:18:18 PM
+Build_OSSendOut  DateTime: 04/14/2014 2:18:18 PM
+Unload Form  DateTime: 04/14/2014 2:18:23 PM
+END END of OS Send out process END END  DateTime: 04/14/2014 2:18:23 PM
+START of OS Send out process START  DateTime: 04/14/2014 2:23:13 PM
+Get work order and sequence  DateTime: 04/14/2014 2:23:13 PM
+Get Workcenter  DateTime: 04/14/2014 2:23:19 PM
+Get Sendout Quantity  DateTime: 04/14/2014 2:23:19 PM
+ClearForm  DateTime: 04/14/2014 2:23:22 PM
+Build_OSSendOut  DateTime: 04/14/2014 2:23:22 PM
+Unload Form  DateTime: 04/14/2014 2:23:27 PM
+END END of OS Send out process END END  DateTime: 04/14/2014 2:23:27 PM
+START of OS Send out process START  DateTime: 04/14/2014 2:31:17 PM
+Get work order and sequence  DateTime: 04/14/2014 2:31:17 PM
+Get Workcenter Data  DateTime: 04/14/2014 2:31:23 PM
+Get Sendout Quantity  DateTime: 04/14/2014 2:31:24 PM
+ClearForm  DateTime: 04/14/2014 2:31:26 PM
+Build_OSSendOut  DateTime: 04/14/2014 2:31:26 PM
+Unload Form  DateTime: 04/14/2014 2:31:31 PM
+END END of OS Send out process END END  DateTime: 04/14/2014 2:31:31 PM
+START of OS Send out process START  DateTime: 04/14/2014 2:36:41 PM   Employee: 270
+Get work order and sequence  DateTime: 04/14/2014 2:36:41 PM   Employee: 270
+Get Workcenter Data  DateTime: 04/14/2014 2:36:48 PM   Employee: 270
+Get Sendout Quantity  DateTime: 04/14/2014 2:36:48 PM   Employee: 270
+ClearForm  DateTime: 04/14/2014 2:36:50 PM   Employee: 270
+Build_OSSendOut  DateTime: 04/14/2014 2:36:50 PM   Employee: 270
+Unload Form  DateTime: 04/14/2014 2:36:55 PM   Employee: 270
+END END of OS Send out process END END  DateTime: 04/14/2014 2:36:55 PM   Employee: 270

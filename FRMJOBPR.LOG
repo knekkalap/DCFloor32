@@ -1,0 +1,21 @@
+Line 69: Class MSCommLib.MSComm of control MSCommPrinter was not a loaded control class.
+Line 72: The property name _version in MSCommPrinter is invalid.
+Line 73: The property name _extentx in MSCommPrinter is invalid.
+Line 74: The property name _extenty in MSCommPrinter is invalid.
+Line 75: The property name _stockprops in MSCommPrinter is invalid.
+Line 76: The property name cdtimeout in MSCommPrinter is invalid.
+Line 77: The property name commport in MSCommPrinter is invalid.
+Line 78: The property name ctstimeout in MSCommPrinter is invalid.
+Line 79: The property name dsrtimeout in MSCommPrinter is invalid.
+Line 80: The property name dtrenable in MSCommPrinter is invalid.
+Line 81: The property name handshaking in MSCommPrinter is invalid.
+Line 82: The property name inbuffersize in MSCommPrinter is invalid.
+Line 83: The property name inputlen in MSCommPrinter is invalid.
+Line 84: The property name interval in MSCommPrinter is invalid.
+Line 85: The property name nulldiscard in MSCommPrinter is invalid.
+Line 86: The property name outbuffersize in MSCommPrinter is invalid.
+Line 87: The property name parityreplace in MSCommPrinter is invalid.
+Line 88: The property name rthreshold in MSCommPrinter is invalid.
+Line 89: The property name rtsenable in MSCommPrinter is invalid.
+Line 90: The property name settings in MSCommPrinter is invalid.
+Line 91: The property name sthreshold in MSCommPrinter is invalid.
